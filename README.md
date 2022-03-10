@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-this is a netflix clone page.
+this is a netflix clone Landing page.
